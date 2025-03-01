@@ -45,7 +45,8 @@ This file controls the bot’s behavior. Below is an example configuration:
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
-Add your wallet addresses in the following format:
+- EVM privatekey.
+- Start with both "0x" prefix and without it.
 
 ```txt
 abc...xyz
