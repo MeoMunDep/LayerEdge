@@ -7,7 +7,7 @@ includelib kernel32.lib
 includelib user32.lib
 
 .data
-    message db 'Hello thief, LOL!', 0
+    message db 'Last update: 3-1-2025', 0
 
 .code
 start:

@@ -1,8 +1,13 @@
 {
   "timeZone": "en-US",
+  "rotateProxy": false,
   "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
   "delayEachAccount": [1, 1],
-  "timeToRestartAllAccounts": 300,
+  "timeToRestartAllAccounts": 1,
   "howManyAccountsRunInOneTime": 1,
-  "referralCode": "PQv1wlu7"
+  "referralCode": ["EKajLIJW", "M60tDdYm"],
+  "doReferer": true,
+  "sendProof": true,
+  "verifyNode": true
 }
