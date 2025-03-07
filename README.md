@@ -2,8 +2,6 @@
 
 This is the instruction for the .exe version; the Node.js guide is like my other Node.js scripts.
 
-Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
-
 ---
 
 ## Table of Contents
