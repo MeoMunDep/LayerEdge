@@ -1,7 +1,6 @@
 # 🚀 Bot Setup Instructions
 
-This is the instruction for the .exe version; the Node.js guide is like my other Node.js scripts.
-
+> 📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 ---
 
 ## Table of Contents
