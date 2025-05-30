@@ -1,0 +1,1 @@
+console.log(`This game has been airdropped, so i close the repo^^`)
