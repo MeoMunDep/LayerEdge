@@ -1,1 +1,1 @@
-console.log(`Run this script to retrieve token!`)
+console.log(`Run this script to connect to extension!`)
