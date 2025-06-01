@@ -14,6 +14,6 @@
 
   "getToken": {
     "maxCaptchaAttempts": 20,
-    "2captchaApiKey": "57154f0973d0b229bc8f18b28134a91b"
+    "2captchaApiKey": ""
   }
 }
