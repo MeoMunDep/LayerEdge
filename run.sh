@@ -9,6 +9,8 @@ NC='\033[0m'
 
 echo -ne "\033]0;LayerEdge Bot by @MeoMunDep\007"
 
+
+print_yellow "Checking for updates..."
 git pull origin main >/dev/null 2>&1
 if [ $? -eq 0 ]; then
     print_green "Bot is up to date!"
@@ -111,7 +113,7 @@ fi
 
 check_configs
 
-for file in datas.txt wallets.txt proxies.txt; do
+for file in tokens.txt privateKeys.txt proxies.txt; do
     if [ ! -f "$file" ]; then
         touch "$file"
         print_green "Created $file"
@@ -126,7 +128,6 @@ npm install --no-audit --no-fund --prefer-offline --force user-agents axios meo-
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
-print_yellow "Checking for updates..."
 
 
 print_green "Starting the bot..."
