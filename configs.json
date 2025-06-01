@@ -14,6 +14,10 @@
 
   "getToken": {
     "maxCaptchaAttempts": 20,
-    "2captchaApiKey": ""
+    "2captchaApiKey": ["your-2captcha-key1", "your-2captcha-key2"],
+    "capsolverApiKey": ["your-capsolver-key"],
+    "capmonsterApiKey": ["your-capmonster-key"],
+    "yescaptchaApiKey": ["your-yescaptcha-key"],
+    "omniApiKey": ["your-omni-key"]
   }
 }
