@@ -56,8 +56,9 @@ echo Dependencies installation completed!
 
 
 echo Starting the bot...
-node meomundep
+node index_meomundep
 
 pause
 exit
+
 
