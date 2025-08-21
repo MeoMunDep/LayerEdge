@@ -131,5 +131,6 @@ print_green "Dependencies installation completed!"
 
 
 print_green "Starting the bot..."
-node meomundep.js
+node index_meomundep
+
 
