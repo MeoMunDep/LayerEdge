@@ -124,7 +124,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install --no-audit --no-fund --prefer-offline --force user-agents axios meo-forkcy-colors meo-forkcy-utils https-proxy-agent socks-proxy-agent ethers web3 crypto-js ws 
+npm install --no-audit --no-fund --prefer-offline --force user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy ethers web3 crypto-js ws 
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
@@ -132,3 +132,4 @@ print_green "Dependencies installation completed!"
 
 print_green "Starting the bot..."
 node meomundep.js
+
