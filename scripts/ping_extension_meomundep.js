@@ -1,1 +1,1 @@
-console.log(`10 more stars guys, hurry up, i dont want to keep script alone :(`)
+console.log(`The extension version of this game is currently stopped, please wait for them to fix it...`)
